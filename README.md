@@ -2,5 +2,4 @@
 
 Create Portfolio
 
-visualization project 
-https://github.com/elmtang/vis_1
+[visualization project](https://github.com/elmtang/vis_1)
